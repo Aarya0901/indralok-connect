@@ -33,7 +33,7 @@ const Home = () => {
     { label: "Established", value: "1968" },
     { label: "Member Families", value: "500+" },
     { label: "Plot Area", value: "50 Acres" },
-    { label: "Buildings", value: "12" },
+    { label: "Buildings", value: "4 Wing" },
   ];
 
   return (
