@@ -45,7 +45,7 @@ const About = () => {
                 </div>
               </div>
               <p>
-                We pride ourselves on maintaining a clean, safe, and well-organized environment for all residents. Our society features modern amenities including 24/7 security, well-maintained gardens, children's play areas, community halls, and ample parking spaces.
+                Located in Andheri East, our society enjoys excellent connectivity — just a 5-minute walk from both the Western Railway Station and the Metro. We take pride in maintaining a safe and well-organized environment, supported by 24/7 security with CCTV surveillance and ample parking spaces for residents and visitors alike.
               </p>
             </CardContent>
           </Card>
