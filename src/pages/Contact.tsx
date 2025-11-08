@@ -38,9 +38,9 @@ const Contact = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-muted-foreground leading-relaxed">
-                    The New Indralok CHS Ltd<br />
-                    Plot No. 123, Sector ABC<br />
-                    Your City, State - 400001<br />
+                    New Indralok CHS LTD<br />
+                    59, Old Nagardas Road, Andheri East<br />
+                    Mumbai 400 069<br />
                     India
                   </p>
                 </CardContent>
