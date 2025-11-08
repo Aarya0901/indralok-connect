@@ -9,7 +9,7 @@ const About = () => {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">About Us</h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Building a community of trust, transparency, and excellence since 1995
+            Building a community of trust, transparency, and excellence since 1968
           </p>
         </div>
 
@@ -24,24 +24,24 @@ const About = () => {
             </CardHeader>
             <CardContent className="space-y-6 text-lg leading-relaxed">
               <p>
-                <strong>The New Indralok Cooperative Housing Society Ltd</strong> is a well-established residential community located in the heart of the city. Established in 1995, our society has grown to become one of the most sought-after residential complexes in the area.
+                <strong>The New Indralok Cooperative Housing Society Ltd</strong> is a well-established residential community located in the heart of the city. Established in 1968, our society has grown to become one of the most sought-after residential complexes in the area.
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-primary-light p-6 rounded-lg">
                   <h3 className="font-semibold text-primary mb-2">Total Area</h3>
-                  <p className="text-2xl font-bold">50 Acres</p>
+                  <p className="text-2xl font-bold">2,000 Sq Mtr</p>
                 </div>
                 <div className="bg-secondary-light p-6 rounded-lg">
                   <h3 className="font-semibold text-secondary mb-2">Member Families</h3>
-                  <p className="text-2xl font-bold">500+</p>
+                  <p className="text-2xl font-bold">48</p>
                 </div>
                 <div className="bg-primary-light p-6 rounded-lg">
                   <h3 className="font-semibold text-primary mb-2">Buildings</h3>
-                  <p className="text-2xl font-bold">12 Blocks</p>
+                  <p className="text-2xl font-bold">4 Wing</p>
                 </div>
                 <div className="bg-secondary-light p-6 rounded-lg">
                   <h3 className="font-semibold text-secondary mb-2">Year Established</h3>
-                  <p className="text-2xl font-bold">1995</p>
+                  <p className="text-2xl font-bold">1968</p>
                 </div>
               </div>
               <p>
@@ -56,38 +56,38 @@ const About = () => {
           <h2 className="text-3xl font-bold mb-8">Our History</h2>
           <div className="space-y-6 text-lg leading-relaxed">
             <p>
-              The New Indralok CHS Ltd was formed in <strong>1995</strong> by a group of visionary individuals who shared a common dream – to create a model residential community that prioritizes quality living, community welfare, and sustainable development.
+              The New Indralok CHS Ltd was formed in <strong>1968</strong> by a group of visionary individuals who shared a common dream – to create a model residential community that prioritizes quality living, community welfare, and sustainable development.
             </p>
             <div className="bg-muted/50 p-6 rounded-lg border-l-4 border-primary">
               <h3 className="font-semibold text-xl mb-4">Key Milestones</h3>
               <ul className="space-y-3">
                 <li className="flex gap-3">
-                  <span className="font-semibold text-primary">1995:</span>
+                  <span className="font-semibold text-primary">1968:</span>
                   <span>Society foundation and initial construction</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="font-semibold text-primary">2000:</span>
-                  <span>Completion of first 6 residential blocks</span>
+                  <span className="font-semibold text-primary">1973:</span>
+                  <span>Completion of first 2 residential wings</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="font-semibold text-primary">2005:</span>
+                  <span className="font-semibold text-primary">1978:</span>
                   <span>Addition of community amenities and recreation facilities</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="font-semibold text-primary">2010:</span>
-                  <span>Expansion phase - 6 additional blocks constructed</span>
+                  <span className="font-semibold text-primary">1983:</span>
+                  <span>Expansion phase - 2 additional wings constructed</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="font-semibold text-primary">2015:</span>
+                  <span className="font-semibold text-primary">1988:</span>
                   <span>Implementation of eco-friendly initiatives and rainwater harvesting</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="font-semibold text-primary">2020:</span>
+                  <span className="font-semibold text-primary">1993:</span>
                   <span>Digital transformation and online member services</span>
                 </li>
                 <li className="flex gap-3">
-                  <span className="font-semibold text-primary">2025:</span>
-                  <span>Celebrating 30 years of community excellence</span>
+                  <span className="font-semibold text-primary">2018:</span>
+                  <span>Celebrating 50 years of community excellence</span>
                 </li>
               </ul>
             </div>
