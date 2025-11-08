@@ -30,7 +30,7 @@ const Home = () => {
   ];
 
   const stats = [
-    { label: "Established", value: "1995" },
+    { label: "Established", value: "1968" },
     { label: "Member Families", value: "500+" },
     { label: "Plot Area", value: "50 Acres" },
     { label: "Buildings", value: "12" },
